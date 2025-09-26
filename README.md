@@ -1,6 +1,6 @@
 # Beehive - A Modern Landing Page
 
-![Beehive Landing Page](./public/assets/beehive-app-mockup.png)
+![Beehive Landing Page](./docs/capture-landing.png)
 
 ### ✨ **Live Demo:** [https://beehive-landing-eta.vercel.app](https://beehive-landing-eta.vercel.app) ✨
 
