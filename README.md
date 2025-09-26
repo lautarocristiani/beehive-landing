@@ -2,7 +2,7 @@
 
 ![Beehive Landing Page](./public/assets/beehive-app-mockup.png)
 
-### ✨ **Live Demo:** [https://your-vercel-link-goes-here.app](https://your-vercel-link-goes-here.app) ✨
+### ✨ **Live Demo:** [https://beehive-landing-eta.vercel.app](https://beehive-landing-eta.vercel.app) ✨
 
 ---
 
