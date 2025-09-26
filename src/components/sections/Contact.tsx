@@ -15,9 +15,9 @@ const Contact = () => {
       transition={{ duration: 0.5 }}
     >
       <div className="container mx-auto px-6 text-center">
-        <h2 className="text-4xl font-extrabold">Interested? Let's talk.</h2>
+        <h2 className="text-4xl font-extrabold">Interested? Let&apos;s talk.</h2>
         <p className="text-lg text-gray-600 mt-4 max-w-2xl mx-auto">
-          We'd love to hear from you. Whether you have a question about Beehive, pricing, or anything else, our team is ready to answer all your questions.
+          We&apos;d love to hear from you. Whether you have a question about Beehive, pricing, or anything else, our team is ready to answer all your questions.
         </p>
         <a href="mailto:hello@beehive.app">
           <Button size="lg" className="mt-8">

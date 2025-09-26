@@ -36,7 +36,7 @@ const Testimonials = () => {
           {testimonials.map((testimonial) => (
             <figure key={testimonial.name} className="p-8 bg-white rounded-lg shadow-md">
               <blockquote className="text-lg text-gray-700 mb-6">
-                <p>"{testimonial.quote}"</p>
+                <p>&ldquo;{testimonial.quote}&ldquo;</p>
               </blockquote>
               <figcaption className="flex items-center gap-4">
                 <Image
