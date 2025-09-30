@@ -2,7 +2,7 @@
 
 ![Beehive Landing Page](./docs/capture-landing.png)
 
-### ✨ **Live Demo:** [https://beehive-landing-eta.vercel.app](https://beehive-landing-eta.vercel.app) ✨
+### ✨ **Live Demo:** [https://beehive-two-eta.vercel.app](https://beehive-two-eta.vercel.app) ✨
 
 ---
 
